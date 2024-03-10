@@ -4,7 +4,7 @@ Overview of my ever evolving homelab. Device, Software, Network, and Appliances 
 
 ## core
 
-| Device           | Operating System | Software   | GPU |   | Network                   |
+| Device           | Operating System | Software   | GPU   | Network                   |
 | ------------------ | ------------------ | --------------- | --------------------------- | ----- |
 | 813M-3           | FreeBSD          | pfSense  | N/A     | 1G, 4 x 10G               |
 | 118-14 | Ubuntu           | NVIDIA        | 2x P100 | 1G, 2 x 10G               |

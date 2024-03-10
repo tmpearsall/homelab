@@ -17,6 +17,7 @@ Overview of my ever evolving homelab. Device, Software, Network, and Appliances 
 ## adjacent
 
 | Device | Operating System | Software | Network |
+| --- | --- | --- | --- |
 | Tensorbook | Ubuntu 22.04 | Lambda Stack | 10G, WiFi |
 | ROG STRIX | Windows 11 | Rufus | 2.5G, WiFi |
 | X1C | Bambu Lab | Studio, Handy | WiFi |

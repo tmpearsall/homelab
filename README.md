@@ -1,6 +1,6 @@
 # homelab
 
-Overview of my ever evolving homelab. Device, Software, Network, and Appliances covered.  homelab adjacent gear also included. Check back as there will be frequent updates.
+Overview of my ever evolving homelab. Devices, Software, Network, and Appliances covered.  homelab adjacent gear also included. Check back as there will be frequent updates.
 
 ## core
 
@@ -11,7 +11,7 @@ Overview of my ever evolving homelab. Device, Software, Network, and Appliances 
 | Supermicro 1U | Debian           | ProxMox       | N/A      | 1G, 2 x 10G               |
 | Supermicro 1U | Debian           | TrueNAS Scale | N/A      | 1G, 2 x 10G               |
 | 45HomeLab HL 15  | Rocky Linux      | Houston       | N/A      | 1G, 2 x 10G               |
-| EliteDesk     | Windows 10       | Rufus         | N/A      | 1G, 10G (? USB-C adapter) |
+| EliteDesk     | Windows 10       | Rufus         | N/A      | 1G, 10G (USB-C adapter) |
 | Custom Build  | Ubuntu           | CUDA          | RTX 4090 | 1G 2x10G                  |
 | 5N            | Drobo            | BeyondRAID    | N/A      | 2 x 1G                    |
 

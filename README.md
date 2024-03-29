@@ -35,3 +35,6 @@ Overview of my ever evolving homelab. Devices, Software, Network, and Appliances
 | X1C        | Bambu Lab        | Studio, Handy | N/A        | WiFi       |
 | Philips Hue |  Bridge v2.0 | N/A | N/A | 100M, WiFi, Zigbee |
 
+
+
+Checkout the [Wiki](https://github.com/tmpearsall/homelab/wiki)

@@ -23,8 +23,8 @@ Overview of my ever evolving homelab. Devices, Software, Network, and Appliances
 | Netgear | XS512EM | 10 | 10x 100M - 10G | 2 Combo |
 | Netgear | XS512EM | 10 | 10x 100M - 10G | 2 Combo |
 | Netgear | GS110EMX |10 | 8x 100M - 1G, 2x 10M - 10G | N/A |
-| Netgear | Orbi 960 Router | 5 | 1x 10G, 1x 2.5G, 3x 10M - 1G | N/A |
-| Netgear | Orbi 960 Satellite | 3 | 3x 10M - 1G | N/A |
+| Netgear | Orbi 860 Router | 5 | 1x 10G, 1x 2.5G, 3x 10M - 1G | N/A |
+| Netgear | Orbi 860 Satellite | 3 | 3x 10M - 1G | N/A |
 
 ## adjacent gear
 

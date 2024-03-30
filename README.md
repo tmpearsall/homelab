@@ -6,10 +6,10 @@ Overview of my ever evolving homelab. Devices, Software, Network, and Appliances
 
 | Device        | Operating System | Software      | GPU      | NIC(s)                  |
 | --------------- | ------------------ | --------------- | ---------- | --------------------------- |
-| Supermicro 1U Shallow | FreeBSD          | pfSense       | N/A      | 1G, 4 x 10G               |
+| Supermicro 1U Shallow | FreeBSD Based         | pfSense       | N/A      | 1G, 4 x 10G               |
 | Supermicro 1U Deep  | Ubuntu           | NVIDIA        | 2x P100  | 1G, 2 x 10G               |
-| Supermicro 1U | Debian           | ProxMox       | N/A      | 1G, 2 x 10G               |
-| Supermicro 1U | Debian           | TrueNAS Scale | N/A      | 1G, 2 x 10G               |
+| Supermicro 1U | Debian Based          | ProxMox       | N/A      | 1G, 2 x 10G               |
+| Supermicro 1U | Debian Based          | TrueNAS Scale | N/A      | 1G, 2 x 10G               |
 | 45HomeLab HL 15  | Rocky Linux      | Houston       | N/A      | 1G, 2 x 10G               |
 | EliteDesk     | Windows 10       | Rufus         | N/A      | 1G, 10G (USB-C adapter) |
 | Custom Build  | Ubuntu           | CUDA          | RTX 4090 | 1G 2x10G                  |

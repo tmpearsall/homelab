@@ -15,6 +15,8 @@ Overview of my ever evolving homelab. Devices, Software, Network, and Appliances
 | Custom Build  | Ubuntu           | CUDA          | RTX 4090 | 1G 2x10G                  |
 | Custom Build  | PopOS            | Ollama & WebUI| RTX 4000 ADA SFF |1G, 2 x 10G  |
 | 5N            | Drobo            | BeyondRAID    | N/A      | 2 x 1G                    |
+| EliteDesk   | Ubuntu           | PiHole        | N/A      | 1G  |
+| EliteDesk   | Ubuntu           | PiHole        | N/A  | USB-C to Ethernet | 
 
 ## network
 

@@ -1,6 +1,6 @@
 # homelab
 
-Overview of my ever evolving homelab. Devices, Software, Network, and Appliances covered.  homelab adjacent gear also included. Check back as there will be frequent updates.
+Overview of my ever evolving homelab. Devices, Software, Network, and Appliances covered.  homelab adjacent gear also included. Check back as there will be updates.
 
 Background: In the Spring of 2023, I decided to build a homelab. Initial goals were modest, offload firewall and routing duties from the wireless access point and install a server or two to get some hands-on experience that wasn't directly in line with my day job. For those of you who came here from the Readme.md you can surmise that those goals have evolved quite a bit. I've found myself in the possession of a legitimate, onsite, small business network all in the basement (naturally cooled as the basement is below ground level). So what to do with it? 
 
@@ -10,4 +10,4 @@ Note: I purchased all of the hardware and selected all of the software myself, n
 
 Over time, as the custom software stack grows, I anticipate that the current readme will move to this page. Feedback welcome (although it might be ignored or I might be slow to respond). Be warned, while these musings are not exactly stream of consciousness, I am not writing and editing them offline. Will strive to be cogent but striving is not a guarantee. 
 
-Checkout the [Wiki](https://github.com/tmpearsall/homelab/wiki)
+Checkout the [Wiki](https://github.com/tmpearsall/homelab/wiki) for details
